@@ -1,0 +1,13 @@
+U should input only numbers. Enters is impotant
+
+cost-vector: *c1* *c2* ... *cn*
+A-matrix: *rows* *columns*'
+*a00* *a01* ... *a0n
+        ......
+*am0* *am1* ... *amn
+b-vector: *b1* ... *bn*
+*lower_bound0* *upper_bound0*
+        ......
+*lower_boundn* *upper_boundn*
+
+Ps. upper_bound can be inf
